@@ -1,6 +1,6 @@
 /*!
  * Floating Messages jQuery Plugin
- * Plugin to convert show simple floating messages using JavaScript.
+ * Plugin to show simple floating messages using JavaScript.
  *
  * @version 1.0.0
  * @copyright 2016, Daniel David Duarte <danieldd.ar@gmail.com>
