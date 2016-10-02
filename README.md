@@ -13,11 +13,13 @@ Usage
 -----
 
 - Include jQuery
+
     ```html
     <script src="//code.jquery.com/jquery-3.1.0.js"></script>
     ```
 
 - Include Floating Messages jQuery Plugin (CSS and JS)
+
     ```html
     <link href="jquery.floating-messages.min.css" rel="stylesheet" type="text/css"/>
     <script src="jquery.floating-messages.min.js"></script>
@@ -29,3 +31,25 @@ Usage
     $.showWarning('This is a warning.');
     $.showError('This is an error!');
     ```
+
+Composer
+--------
+
+If you prefer, you can get the plugin using composer.
+
+Just add the repository to your composer.json:
+
+```json
+"repositories": [
+   {
+        "type": "vcs",
+        "url": "https://github.com/daniel-duarte/jquery.floating-messages"
+    }
+]
+```
+
+And require the package:
+
+```bash
+composer require daniel-duarte/js-floating-messages:dev-master
+```
