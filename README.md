@@ -1,7 +1,7 @@
 Floating Messages jQuery Plugin
 ===============================
 
-Version 1.0.0
+Version 1.0.1
 
 Copyright 2016, Daniel David Duarte <danieldd.ar@gmail.com>
 
